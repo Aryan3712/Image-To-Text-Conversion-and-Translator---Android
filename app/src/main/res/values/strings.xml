@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageToTextConversion</string>
+    <string name="find_button">Find</string>
+    <string name="output_text">Complex Words</string>
+    <string name="menu_pdf_button">Make pdf</string>
+
+</resources>
